@@ -11,3 +11,4 @@ wheels/
 data/
 *.tar
 .DS_Store
+*.h5ad
