@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "ipykernel>=7.2.0",
+    "numpy>=2.3.5",
     "scanpy[leiden]>=1.12",
     "scvi-tools>=1.4.1",
 ]
